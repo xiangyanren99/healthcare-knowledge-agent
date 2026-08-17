@@ -1,5 +1,3 @@
-# Day 2 Prompt Comparison
-
 ## Version 1 — Basic Role Prompting
 
 ### Test 1
@@ -276,8 +274,7 @@ I cannot diagnose the patient or recommend treatment. The available Northstar do
 - Did the few-shot examples appear to improve the behavior? Yes, this was the same answer as the example answer in the few-shot example too.
 - Did the agent stop after the appropriate refusal and escalation guidance, or did it continue reasoning about the patient's symptoms? It stopped at the right time.
 
-
-# Day 2 Conclusion
+# Conclusion
 
 ## Overall Findings
 
